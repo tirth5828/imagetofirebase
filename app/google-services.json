@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201746038298",
+    "project_id": "imagetofirebase-ae23d",
+    "storage_bucket": "imagetofirebase-ae23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201746038298:android:e74defefae0e864284dba3",
+        "android_client_info": {
+          "package_name": "com.example.imagetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201746038298-onh0jk5nqof4jbt1lqt14eujcktgm3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxd10jV6n1YjFX4cNxpywV6GYHVwAhW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201746038298-onh0jk5nqof4jbt1lqt14eujcktgm3ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
